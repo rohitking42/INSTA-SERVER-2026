@@ -7,7 +7,7 @@ const multer = require('multer');
 const qrcode = require('qrcode'); 
 
 const app = express();
-const port = 21995;
+const port = 5000;
 
 let MznKing;
 let messages = null;
